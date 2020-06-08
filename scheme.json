@@ -1,0 +1,22 @@
+  "schemes": [
+    {
+      "name": "Monokai",
+      "foreground": "#F8F8F2",
+      "background": "#272822",
+      "black": "#000000",
+      "blue": "#66d9ef",
+      "cyan": "#00d9d9",
+      "green": "#a6e22e",
+      "purple": "#ae81ff",
+      "red": "#f92672",
+      "white": "#ffffff",
+      "yellow": "#e6db74",
+      "brightBlack": "#555555",
+      "brightBlue": "#7accda",
+      "brightCyan": "#c8f0f0",
+      "brightGreen": "#9dc54b",
+      "brightPurple": "#b392ef",
+      "brightRed": "#dd4278",
+      "brightWhite": "#ffffff",
+      "brightYellow": "#d1ca89"
+    }
