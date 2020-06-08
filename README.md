@@ -1,1 +1,1 @@
-# windows-terminal-color-scheme-monokai
+# Windows terminal color scheme Monokai
