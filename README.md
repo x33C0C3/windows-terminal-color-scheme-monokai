@@ -1,0 +1,1 @@
+# windows-terminal-color-scheme-monokai
